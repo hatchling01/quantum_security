@@ -1,0 +1,9 @@
+ipykernel
+numpy
+pandas
+qiskit
+seaborn
+ipywidgets
+qiskit_ibm_runtime
+qiskit_ibm_provider
+pylatexenc
